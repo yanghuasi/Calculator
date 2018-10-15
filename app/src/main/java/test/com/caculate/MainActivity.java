@@ -29,6 +29,7 @@ public class MainActivity extends Activity {
     public Button dot;
     public Button equal;
 
+
     private float beforeNum = -1;
     private String TYPE_PLUS = "plus";
     private String TYPE_REDUCE = "reduce";
